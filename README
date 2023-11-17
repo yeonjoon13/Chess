@@ -1,0 +1,12 @@
+TEAM:
+ - Participants: William Chung, Kenny Chung, Alexandra Augur
+ - JHED: wchung17, kchung31, aaugur1
+
+DESIGN:
+ - Breif explanation of overall design
+   	 We created several helper functions in Board.cpp such as replace_board, operator=, make_turn, copy constructor, and the destructor	    With these helper functions, we created all the necessary functions to run the Chess program. We have all the pieces for the board	       and we use pure virtual functions to connect them all together with Piece.h. We created the display using the Terminal.h and Excep	  tions.h are used to check for errors within the program.  
+	 
+COMPLETENESS:
+ - Fully completed
+
+
